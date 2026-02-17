@@ -1,14 +1,14 @@
 {
-  "name": "rat",
-  "description": "(r)eact (a)pp (t)emplate",
-  "version": "0.2.0",
+  "name": "rat-pwa",
+  "description": "(r)eact (a)pp (t)emplate progressive web app",
+  "version": "0.1.0",
   "license": "MIT",
   "author": {
     "name": "Joseph Beck"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joseph-beck/rat"
+    "url": "https://github.com/j-incorp/rat-pwa"
   },
   "type": "module",
   "scripts": {
